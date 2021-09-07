@@ -17,7 +17,6 @@ h2{
 }
 
 .Ingredientes{
-  
   width: 15em;
   border: 1px black;
   padding:auto;  /* No me acuerdo como funciona esto todavia */
@@ -25,6 +24,20 @@ h2{
 }
 .pasos {
     
-    padding: auto;
-    background-color: antiquewhite;
+  padding: auto;
+  background-color: antiquewhite;
+}
+.formulario{
+  width: 20em;
+  border: 1px black;
+  box-shadow:  5px 5px 2px dimgray;
+  padding:auto;  /* No me acuerdo como funciona esto todavia */
+  background-color: antiquewhite;
+}
+
+.redes{
+  width: 7.3em;
+  padding: auto;
+  box-shadow:  5px 5px 2px dimgray;
+  background-color: white;
 }
