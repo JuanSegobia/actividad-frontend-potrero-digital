@@ -1,6 +1,12 @@
 body{
-    background-image: 
-    url("./images/tortilla.jpg"); 
+  background-image: 
+  url("/images/background.jpg")
+}
+.fondo{
+  background-image: 
+  url("/images/background.jpg")
+}
+
 }
 
 h1{
