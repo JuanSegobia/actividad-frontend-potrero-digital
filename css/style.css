@@ -1,26 +1,28 @@
 body{
   background-image: 
-  url("../images/background.jpg")
+  url("/images/background.jpg")
 }
-.fondo{
-  background-image: 
-  url("../images/background.jpg")
-}
-
-
 h1{
   width: 8em;
   box-shadow:  5px 5px 1px dimgray;
   background-color: burlywood;
+  font-size: 37px;
+  font-family: tahoma;
+  line-height: 46px;
 }
-
 h2{
     text-align: center;
+    font-size: 25px;
+    line-height: 38px;
+    font-family: helvetica;
     width: 8em;
     box-shadow:  5px 5px 2px dimgray;
     background-color: burlywood;
 }
-
+.parrafo{
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .Ingredientes{
   width: 15em;
   border: 1px black;
@@ -33,13 +35,12 @@ h2{
   background-color: antiquewhite;
 }
 .formulario{
-  width: 20em;
+  width: 21em;
   border: 1px black;
   box-shadow:  5px 5px 2px dimgray;
   padding:auto;  /* No me acuerdo como funciona esto todavia */
   background-color: antiquewhite;
 }
-
 .redes{
   width: 7.3em;
   padding: auto;
